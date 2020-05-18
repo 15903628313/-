@@ -1,0 +1,129 @@
+.imgbox{
+    position: relative;
+    background: #FEEDED;
+    width: 100%;
+    height: 303px;
+}
+.imgbox1 {
+    width: 340px;
+    height: 124px;
+    background: #fff;
+    position: absolute;
+    bottom: 110px;
+    left: 30px;
+}
+.box1font {
+    width: 300px;
+    height: 38px;
+    border-bottom: 1px solid #BFBFBF;
+    color: #BFBFBF;
+    margin: 0 auto;
+}
+.box1font a {
+    color: #BFBFBF;
+}
+.box1font2 {
+    display: inline-block;
+    width: 145px;
+    height: 24px;
+    text-align: center;
+    border-right: 1px solid #BFBFBF;
+    margin-top: 10px;
+}
+.imgbox2 {
+    background: url(../img/daokuang.png);
+    width: 247px;
+    height: 294px;
+    position: absolute;
+    left: 26px;
+    top: 5px;
+    overflow: hidden;
+}
+.box2font1 {
+    background: #FD4093;
+    width: 137px;
+    height: 27px;
+    line-height: 27px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.box2font2 {
+    width: 204px;
+    height: 40px;
+    border: 1px solid #BFBFBF;
+    margin-top: 10px;
+    line-height: 40px;
+    overflow: hidden;
+}
+.box2font2 img {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.box2font2 input {
+    height: 33px;
+    border-width: 0;
+    margin-left: 45px;
+    margin-bottom: 10px;
+}
+.imglittlebox {
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.imgbox3 {
+    position: absolute;
+    top: 30px;
+    right: 20px;
+}
+
+.concent1 {
+    width: 95%;
+    background: #F8F8F8;
+    height: 1320px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.con1left {
+    display: inline-block;
+    vertical-align: top;
+}
+.con1left img {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+
+.con1right {
+    display: inline-block;
+    width: 65%;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.con1font1 {
+    font-size: 24px;
+    color: #FF5B5B;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.con1font2 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.con1right img {
+    margin-left: 10px;
+}
+.difont {
+    margin-left: 195px;
+    margin-bottom: 30px;
+}
+.pian {
+    display: inline-block;
+    font-size: 24px;
+    margin-left: 30px;
+}
+.pian :hover {
+    color: #FD3737;
+}

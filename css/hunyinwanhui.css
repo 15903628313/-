@@ -1,0 +1,160 @@
+.imgbox{
+    position: relative;
+}
+.imgbox2 {
+    position: absolute;
+    bottom: -5px;
+    right: 60px;
+}
+.imgfont1 {
+    font-size: 28px;
+    color: #000;
+}
+.imgfont2 {
+    font-size: 20px;
+    color: #FF406E;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.imgfont3 {
+    width: 360px;
+    font-size: 18px;
+    color: #000;
+}
+.imgfont4 {
+    width: 121px;
+    height: 40px;
+    font-size: 20px;
+    color: #fff;
+    background: #FD637C;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: 160px;
+}
+.concent1{
+    width: 714px;
+    height:645px;
+    background: #FFEEF7;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    line-height: 35px;
+}
+.con1font1 {
+    font-size: 26px;
+    color: #FD637C;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.con1font2 {
+    font-size: 22px;
+    color: #000;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.con1font3 {
+    width: 640px;
+    font-size: 20px;
+    color: #000;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.concent3 {
+    width: 100%;
+    height: 820px;
+    background: #fff;
+    overflow: hidden;
+    text-align: center;
+}
+.con3box1 {
+    display: inline-block;
+    width: 32%;
+    height: 100%;
+    margin-top: 30px;
+    text-align: center;
+}
+.con3box2 {
+    display: inline-block;
+    width: 32%;
+    height: 100%;
+    margin-top: 60px;
+    text-align: center;
+}
+.con3font1 {
+    font-size: 22px;
+    color: #FE4D78;
+    margin-top: 10px;
+    width: 205px;
+}
+.con3font2 {
+    font-size: 20px;
+    color: #606060;
+    margin-top: 10px;
+    width: 220px;
+}
+.con2font2 {
+    width: 189px;
+    height: 67px;
+    font-size: 30px;
+    color: #fff;
+    background: #FF339A;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 67px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.title{
+	background: url(../img/li.png) no-repeat;
+	font-size: 32px;
+	color: #FF339A;
+	text-align: center;
+	width: 454px;
+	height: 72px;
+	line-height: 72px;
+	margin: 0 auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+.concent4 {
+    width: 100%;
+    height: 315px;
+    margin: 0 auto;
+    position: relative;
+}
+.con4box {
+    line-height: 34px;
+    position: absolute;
+    top: 5px;
+    right: 105px;
+}
+.con4font1 {
+    font-size: 20px;
+    width: 280px;
+    margin-top: 10px;
+}
+.con4font1 span {
+    font-size: 24px;
+    color: #FF279E;
+}
+.con4font2 {
+    font-size: 24px;
+    color: #FF0072;
+    margin-top: 10px;
+}
+.con4font3 {
+    width: 173px;
+    height: 40px;
+    font-size: 24px;
+    color: #fff;
+    background: #FF4799;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 20px;
+    margin-top: 5px;
+}

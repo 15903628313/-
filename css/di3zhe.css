@@ -1,0 +1,236 @@
+.imgbox{
+    position: relative;
+}
+.imgbox2 {
+    position: absolute;
+    bottom: -5px;
+    right: 60px;
+}
+.imgfont1 {
+    font-size: 28px;
+    color: #000;
+}
+.imgfont2 {
+    font-size: 20px;
+    color: #FF406E;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.imgfont3 {
+    width: 360px;
+    font-size: 18px;
+    color: #000;
+}
+.imgfont4 {
+    width: 121px;
+    height: 40px;
+    font-size: 20px;
+    color: #fff;
+    background: #FD637C;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: 160px;
+}
+.concent1{
+    width: 714px;
+    height:645px;
+    background: #FFEEF7;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    line-height: 35px;
+}
+.con1font1 {
+    font-size: 26px;
+    color: #FD637C;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.con1font2 {
+    font-size: 22px;
+    color: #000;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.con1font3 {
+    width: 640px;
+    font-size: 20px;
+    color: #000;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.concent3 {
+    width: 100%;
+    height: 700px;
+    background: #fff;
+    overflow: hidden;
+    text-align: center;
+}
+.con3box1 {
+    display: inline-block;
+    width: 32%;
+    height: 100%;
+    margin-top: 30px;
+    text-align: center;
+}
+.con3box2 {
+    display: inline-block;
+    width: 32%;
+    height: 100%;
+    margin-top: 60px;
+    text-align: center;
+}
+.con3font1 {
+    font-size: 22px;
+    color: #FE4D78;
+    margin-top: 10px;
+    width: 205px;
+}
+.con3font2 {
+    font-size: 20px;
+    color: #606060;
+    margin-top: 10px;
+    width: 220px;
+}
+.con2font2 {
+    width: 189px;
+    height: 67px;
+    font-size: 30px;
+    color: #fff;
+    background: #FF339A;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 67px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+.title{
+	background: url(../img/li.png) no-repeat;
+	font-size: 32px;
+	color: #FF339A;
+	text-align: center;
+	width: 454px;
+	height: 72px;
+	line-height: 72px;
+	margin: 0 auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+.concent2 {
+    width: 100%;
+    height: 483px;
+    background: #FFE8E8;
+    overflow: hidden;
+}
+.con2box{
+    background: url(../img/3box.png);
+    width: 706px;
+    height: 327px;
+    margin: 0 auto;
+    position: relative;
+}
+.kuangc {
+    position: absolute;
+    bottom: 70px;
+    left: 285px;
+}
+.kuang1 {
+    position: absolute;
+    background: url(../img/left3.png) no-repeat;
+    width: 265px;
+    height: 125px;
+    top: 18px;
+    left: 30px;
+}
+.kuang2 {
+    position: absolute;
+    background: url(../img/left4.png) no-repeat;
+    width: 272px;
+    height: 125px;
+    bottom: 30px;
+    left: 15px;
+}
+.kuang3 {
+    position: absolute;
+    background: url(../img/right3.png)no-repeat;
+    width: 220px;
+    height: 105px;
+    top: 20px;
+    right: 50px;
+}
+.kuang4 {
+    position: absolute;
+    background: url(../img/right4.png)no-repeat;
+    width: 243px;
+    height: 123px;
+    bottom: 30px;
+    right:40px;
+}
+
+.kuang1font1 {
+    font-size: 22px;
+    color: #FF339A;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.kuang1font2 {
+    font-size: 20px;
+    color: #000;
+    width: 214px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.kuang2font1 {
+    font-size: 22px;
+    color: #FF339A;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.kuang2font2 {
+    font-size: 20px;
+    color: #000;
+    width: 214px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.kuang3font1 {
+    font-size: 22px;
+    color: #FF339A;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.kuang3font2 {
+    font-size: 20px;
+    color: #000;
+    width: 195px;
+    margin-left: 25px;
+}
+.kuang4font1 {
+    font-size: 22px;
+    color: #FF339A;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.kuang4font2 {
+    font-size: 20px;
+    color: #000;
+    width: 214px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.con2font {
+    position: absolute;
+    line-height: 43px;
+    text-align: center;
+    background: #FFC7BD;
+    width:127px;
+    height:43px;
+    border-radius:10px;
+    bottom: 30px;
+    left: 297px;
+}
